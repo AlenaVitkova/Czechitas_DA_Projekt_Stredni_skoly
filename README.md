@@ -1,6 +1,7 @@
 Závěrečný projekt v rámci kurzu Digitální akademie DATA od Czechitas
 
 Odkaz na blog:           https://medium.com/@alenavitkova21/st%C5%99edn%C3%AD-%C5%A1koly-zleva-zprava-1733b13fd7d0
+
 Odkaz na Tableau Public: https://public.tableau.com/app/profile/alena.v.tkov./viz/ALAAMARCY_PROJEKTSTREDNISKOLY/Story1
 
 O projektu
